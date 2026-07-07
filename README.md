@@ -25,7 +25,7 @@ My focus now is developing and designing websites, even though I'm not very good
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,html,css,tailwind,cloudflare,java,cpp,mysql,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,html,css,tailwind,java,cpp,mysql,git" alt="Tech Stack" />
 </p>
 
 > *Note: Includes languages and tools used for university coursework, database configuration (MySQL), and hardware environments.*
@@ -35,19 +35,7 @@ My focus now is developing and designing websites, even though I'm not very good
 ### Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nestjs,laravel,js,ts,vite,bun" alt="Currently Learning" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldiarfa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aldia's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldiarfa&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,js" alt="Currently Learning" />
 </p>
 
 ---
