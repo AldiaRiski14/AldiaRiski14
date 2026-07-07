@@ -25,10 +25,8 @@ My focus now is developing and designing websites, even though I'm not very good
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,html,css,tailwind,mysql" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,html,css,tailwind,dart,flutter" alt="Tech Stack" />
 </p>
-
-> *Note: Includes languages and tools used for university coursework, database configuration (MySQL), and hardware environments.*
 
 ---
 
