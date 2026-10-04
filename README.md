@@ -17,7 +17,7 @@ My focus now is developing and designing websites, even though I'm not very good
 ### Design Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,adobelightroom" alt="Design Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,ps" alt="Design Tools" />
 </p>
 
 ---
