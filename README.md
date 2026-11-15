@@ -25,7 +25,7 @@ My focus now is developing and designing websites, even though I'm not very good
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,html,css,tailwind,dart,flutter" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,html,css,laravel,tailwind" alt="Tech Stack" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ My focus now is developing and designing websites, even though I'm not very good
 ### Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,laravel,js" alt="Currently Learning" />
+  <img src="https://skillicons.dev/icons?i=react,dart,flutter,js" alt="Currently Learning" />
 </p>
 
 ---
